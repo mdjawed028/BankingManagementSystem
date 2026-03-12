@@ -1,4 +1,4 @@
-# Banking System Java
+# Banking Management System Project
 
 This is a simple Banking System project developed in Java using JDBC and MySQL.
 
